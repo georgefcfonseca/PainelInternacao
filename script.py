@@ -13,7 +13,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import SessionNotCreatedException
 import time
 
-url = "https://tasy.hospitalsaojudas.com.br"
+url = "https://tasy.hospitalXXXXX.com.br"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--kiosk")
